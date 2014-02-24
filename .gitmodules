@@ -1,4 +1,0 @@
-[submodule "php"]
-        path = php
-        url = git://github.com/slywalker/TwitterBootstrap.git
-        
